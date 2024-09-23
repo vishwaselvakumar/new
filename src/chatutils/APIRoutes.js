@@ -1,6 +1,6 @@
 // import { SERVER_URL } from "./globalEnv";
 
-export const host ="https://saib2b.onrender.com";  // for render     
+export const host ="https://sai-ou80.onrender.com";  // for render     
 
 // export const host ="http://localhost:5000"; // for localhost
 export const loginRoute = `${host}/api/auth/login`;
