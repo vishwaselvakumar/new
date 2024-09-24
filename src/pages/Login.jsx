@@ -1,5 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
-import logo from "../assets/logo.jpg";
+import logo from "../assets/logo.jpeg";
 import { FaChevronLeft } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import { View } from '../components/alt/View';

@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import logo from "../assets/logo.jpg";
+import logo from "../assets/logo.jpeg";
 import { FaChevronLeft } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import { View } from '../components/alt/View';
